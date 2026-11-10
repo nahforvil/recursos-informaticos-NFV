@@ -2,6 +2,7 @@ h1 {
   color: navy;
 }
 
-backgroud-color {
-  color: beige;
+body {
+  background: beige;
+  font-family: verdana;
 }
